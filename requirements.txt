@@ -1,0 +1,10 @@
+PySide6>=6.6
+numpy<2.0
+Pillow>=10.0
+scikit-learn>=1.2
+keras-facenet==0.3.2
+mtcnn==0.1.1
+
+# TensorFlow runtime (nodig voor keras-facenet)
+tensorflow==2.10.1
+protobuf<4.0
